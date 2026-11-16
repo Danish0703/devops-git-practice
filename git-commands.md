@@ -7,6 +7,8 @@ git config --list	View all configurations
 git init	Initialize a Git repository
 git clone <url>	Clone a remote repository
 
+REVIEWED SETUP AND CONFIG COMMANDS
+
 2. Basic Workflow
 Command	Description
 git status	Check repository status
@@ -54,7 +56,6 @@ git remote add origin <url>	Add remote repository
 git remote remove origin	Remove remote
 git push -u origin main	Push and set upstream
 git push origin <branch>	Push a specific branch
-
 7. Stashing
 Command	Description
 git stash	Temporarily save changes
