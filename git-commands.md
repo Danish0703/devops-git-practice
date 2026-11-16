@@ -31,6 +31,8 @@ git log --oneline --graph	View graphical commit history
 git show	Display details of the latest commit
 git show <commit-id>	View a specific commit
 
+REVIEWED BASIC WORK FLOW AND VIEWING CHANGES COMMANDS
+
 4. Branching & Merging
 Command	Description
 git branch	List branches
@@ -40,6 +42,7 @@ git switch -c <name>	Create and switch branch
 git merge <branch>	Merge a branch
 git branch -d <name>	Delete a branch
 git branch -a	List all local and remote branches
+
 
 5. Undoing Changes
 Command	Description
