@@ -1,9 +1,9 @@
+
+add basic login Page
+
 THIS IS THE FILE WHERE YOU NEED TO LIST ALL THE REQUIREMENTS.
-<<<<<<< Updated upstream
-=======
 add basic login Page
 
 TRYING STASH
 
 
->>>>>>> Stashed changes
