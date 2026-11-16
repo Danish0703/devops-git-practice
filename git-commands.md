@@ -59,6 +59,9 @@ git remote add origin <url>	Add remote repository
 git remote remove origin	Remove remote
 git push -u origin main	Push and set upstream
 git push origin <branch>	Push a specific branch
+
+Reviewed Branching & Merging,undoing and remote repo commands
+
 7. Stashing
 Command	Description
 git stash	Temporarily save changes
